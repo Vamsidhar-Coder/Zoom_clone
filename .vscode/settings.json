@@ -1,0 +1,8 @@
+{
+    "dart.previewFlutterUiGuides": true,
+    "editor.renderIndentGuides": false,
+    "dart.flutterCreateAndroidLanguage": "java",
+    "dart.flutterScreenshotPath": null,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "editor.lineHeight": 23
+}
